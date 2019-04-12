@@ -17,5 +17,5 @@ function pigTranslate(string) {
     return newWord;
   }
 }
-let testing = 'trying to fix branch';
+console.log(pigTranslate('avocado'));
 module.exports = pigTranslate;
