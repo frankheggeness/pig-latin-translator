@@ -17,3 +17,5 @@ function pigTranslate(string) {
     return newWord;
   }
 }
+
+module.exports = pigTranslate;
